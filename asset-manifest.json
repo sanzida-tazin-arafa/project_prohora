@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/project_prohora/static/css/main.0a68232e.css",
+    "main.js": "/project_prohora/static/js/main.9b5063c4.js",
+    "static/js/453.1af25784.chunk.js": "/project_prohora/static/js/453.1af25784.chunk.js",
+    "static/media/alertingImg.png": "/project_prohora/static/media/alertingImg.cbb1ca6e685328577320.png",
+    "static/media/map2.png": "/project_prohora/static/media/map2.edc68c3ba62542825c68.png",
+    "static/media/gEImageM.png": "/project_prohora/static/media/gEImageM.6544c4179d758e98eaf2.png",
+    "static/media/creators-1.jpg": "/project_prohora/static/media/creators-1.b8a2a52a9fc65a935423.jpg",
+    "static/media/WhatWeDo.png": "/project_prohora/static/media/WhatWeDo.391af9ad711cb1ccf8a4.png",
+    "static/media/logoTHydro.png": "/project_prohora/static/media/logoTHydro.e85d2b90c700b01abdc5.png",
+    "static/media/about.png": "/project_prohora/static/media/about.79da19df81465b5e3048.png",
+    "static/media/not-found.png": "/project_prohora/static/media/not-found.8bab1bc059c68534a76d.png",
+    "static/media/creators-5.jpg": "/project_prohora/static/media/creators-5.371bde14e87774fca170.jpg",
+    "static/media/creators-3.jpg": "/project_prohora/static/media/creators-3.506d278f819fb134b3a2.jpg",
+    "static/media/dark-arrow.png": "/project_prohora/static/media/dark-arrow.e389dbbf3c896fb23d01.png",
+    "static/media/creators-4.jpg": "/project_prohora/static/media/creators-4.45588450ece7a6b31ec3.jpg",
+    "static/media/creators-2.jpg": "/project_prohora/static/media/creators-2.5cb0370b09b09bbf7f22.jpg",
+    "static/media/creator_icon_5.jpg": "/project_prohora/static/media/creator_icon_5.81617321be506350ac4f.jpg",
+    "static/media/creator_icon_2.jpg": "/project_prohora/static/media/creator_icon_2.fa0796fad6b9a456ca0e.jpg",
+    "static/media/creator_icon_6.jpg": "/project_prohora/static/media/creator_icon_6.198bf74ecde5566c7c80.jpg",
+    "static/media/creator_icon_4.jpg": "/project_prohora/static/media/creator_icon_4.aea7bfd5dc8e0514fdaf.jpg",
+    "static/media/creator_icon_3.jpg": "/project_prohora/static/media/creator_icon_3.72e274ab767b350917f3.jpg",
+    "static/media/creator_icon_7.jpg": "/project_prohora/static/media/creator_icon_7.3556b1fd22e830a22c37.jpg",
+    "static/media/creator_icon_1.jpg": "/project_prohora/static/media/creator_icon_1.627dbca607949ce78067.jpg",
+    "static/media/next-icon.png": "/project_prohora/static/media/next-icon.eeb73637983d48536e22.png",
+    "static/media/back-icon.png": "/project_prohora/static/media/back-icon.82a516e60cfdf9492b62.png",
+    "static/media/hero.jpg": "/project_prohora/static/media/hero.5eaff65082fe0bd3c320.jpg",
+    "static/media/play-icon.png": "/project_prohora/static/media/play-icon.21634c4394d351d38ef0.png",
+    "static/media/logo.png": "/project_prohora/static/media/logo.6962465def75112a7d8a.png",
+    "static/media/GenderEquality.png": "/project_prohora/static/media/GenderEquality.1598f5e991662a5a24df.png",
+    "index.html": "/project_prohora/index.html",
+    "main.0a68232e.css.map": "/project_prohora/static/css/main.0a68232e.css.map",
+    "main.9b5063c4.js.map": "/project_prohora/static/js/main.9b5063c4.js.map",
+    "453.1af25784.chunk.js.map": "/project_prohora/static/js/453.1af25784.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a68232e.css",
+    "static/js/main.9b5063c4.js"
+  ]
+}
