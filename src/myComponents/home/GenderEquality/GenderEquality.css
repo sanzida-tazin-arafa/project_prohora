@@ -1,0 +1,53 @@
+.gender-equality-section {
+    background-color: #f8ebd6;
+    text-align: center;
+    padding: 40px 20px;
+    font-family: Arial, sans-serif;
+  }
+  
+  .gender-equality-section h1 {
+    font-size: 48px;
+    color: #0f2b1d;
+    margin-bottom: 10px;
+    margin-top: 130px;
+  }
+  
+  .gender-equality-section .subtitle {
+    font-size: 18px;
+    color: #3c474a;
+    margin-bottom: 30px;
+  }
+  
+  .gender-equality-section .menu {
+    display: inline-block;
+    list-style: none;
+    padding: 0;
+    margin: 0 0 40px 0;
+  }
+  
+  .gender-equality-section .menu li {
+    display: inline-block;
+    margin: 0 20px;
+  }
+  
+  .gender-equality-section .menu li a {
+    font-size: 18px;
+    color: #0f2b1d;
+    text-decoration: none;
+  }
+  
+  .gender-equality-section .menu li a:hover {
+    text-decoration: underline;
+  }
+  
+  .gender-equality-section .image-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .gender-equality-section .image-container img {
+    max-width: 100%;
+    height: auto;
+    margin-top: 20px;
+  }
+  
